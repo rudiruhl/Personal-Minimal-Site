@@ -1,17 +1,19 @@
+pre, code { font-family: Hack, monospace; }
+
 body {
   background-color: #FEFFEA;
 }
 
 #wrapper {
-  width: 500px;
-  height:500px;
-  background-color: #312F2F;
+  max-width: 940px;
+  margin: 100px auto;
 }
 
-.main {
-  display: flex;
-  flex-direction: column;
-  background-color: pink;
-  width: 200px;
-  height: 200px;
+h1 {
+  font-family: monospace;
+  color: red;
+}
+
+p {
+  font-family: monospace;
 }
