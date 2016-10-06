@@ -1,0 +1,17 @@
+body {
+  background-color: #FEFFEA;
+}
+
+#wrapper {
+  width: 500px;
+  height:500px;
+  background-color: #312F2F;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: pink;
+  width: 200px;
+  height: 200px;
+}
