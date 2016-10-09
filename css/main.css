@@ -21,6 +21,10 @@ h2 {
     font-size: 1.500em;
     color: #EA2B1F;
 }
+h3 {
+  font-family: monospace;
+  color: #37392E;
+}
 
 p {
     font-family: monospace;
