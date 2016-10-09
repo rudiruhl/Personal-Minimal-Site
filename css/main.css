@@ -1,24 +1,26 @@
-pre, code { font-family: Hack, monospace; }
+pre, code {
+    font-family: Hack, monospace;
+}
 
 body {
-  background-color: #FEFFEA;
+    background-color: #FEFFEA;
 }
 
 #wrapper {
-  max-width: 940px;
-  margin: 100px auto;
+    max-width: 940px;
+    margin: 100px auto;
 }
 
-.h1 {
-  font-family: monospace;
-  color: #37392E;
+h1 {
+    font-family: monospace;
+    color: #37392E;
 }
 
 h2 {
-  font-family: monospace;
-  color: #EA2B1F;
+    font-family: monospace;
+    color: #EA2B1F;
 }
 
 p {
-  font-family: monospace;
+    font-family: monospace;
 }
