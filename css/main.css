@@ -8,7 +8,12 @@ body {
 
 #wrapper {
     max-width: 940px;
+    position: relative;
     margin: 100px auto;
+}
+.main {
+  position: relative;
+  margin: o auto;
 }
 
 h1 {
