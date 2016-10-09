@@ -36,3 +36,9 @@ p {
     font-family: monospace;
     font-size: 1.000em;
 }
+a {
+  font-family: monospace;
+  text-decoration: underline;
+  color: #37392E;
+  
+}
