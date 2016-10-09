@@ -11,7 +11,12 @@ body {
 
 h1 {
   font-family: monospace;
-  color: red;
+  color: #37392E;
+}
+
+h2 {
+  font-family: monospace;
+  color: #EA2B1F;
 }
 
 p {
